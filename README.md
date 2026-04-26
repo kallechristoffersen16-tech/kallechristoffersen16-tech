@@ -1,4 +1,4 @@
-## Personal readme
+# Personal README
 I am a Danish bioinformatic student at the University of Copenhagen. I want to become a skilled programmer that can help with solving biological issues, espcially within the medical world.
 
 <!--
