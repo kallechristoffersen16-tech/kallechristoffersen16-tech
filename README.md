@@ -1,4 +1,5 @@
-## Hi there 👋
+## Personal readme
+I am a Danish bioinformatic student at the University of Copenhagen. I want to become a skilled programmer that can help with solving biological issues, espcially within the medical world.
 
 <!--
 **kallechristoffersen16-tech/kallechristoffersen16-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
